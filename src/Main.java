@@ -6,5 +6,8 @@ public class Main {
 		System.out.println("Hello");
 		//test test test;
 	}
+	public String helloWorld() {
+		System.out.println("I am new");
+	}
 
 }
